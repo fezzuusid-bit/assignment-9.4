@@ -90,7 +90,7 @@ HTML
             </ul>
         </div>
         <div class="footer-bottom">
-            <p>&copy; 2026 Atim Akhtar. All rights reserved.</p>
+            <p>&copy; 2026 falak siddiqui. All rights reserved.</p>
         </div>
     </footer>
 </body>
