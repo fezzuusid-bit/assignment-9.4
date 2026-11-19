@@ -1,4 +1,4 @@
-HTML
+ HTML
 <!-- index.html -->
 <!DOCTYPE html>
 <html lang="en">
@@ -41,7 +41,7 @@ HTML
                     <p>Leverage modular design systems, advanced CSS layout engines, and semantic markup to deliver exceptional digital experiences.</p>
                     <div class="hero-buttons">
                         <a href="#features" class="btn btn-primary btn-lg">Explore Features</a>
-                        <a href="https://github.com/AtimAkhtar" target="_blank" rel="noopener" class="btn btn-outline btn-lg">View GitHub</a>
+                        <a href="https://github.com/falak siddiqui" target="_blank" rel="noopener" class="btn btn-outline btn-lg">View GitHub</a>
                     </div>
                 </div>
                 <div class="hero-image-wrapper">
@@ -86,7 +86,7 @@ HTML
             <ul class="footer-links">
                 <li><a href="#hero">Home</a></li>
                 <li><a href="#features">Features</a></li>
-                <li><a href="https://github.com/AtimAkhtar" target="_blank" rel="noopener">GitHub Repository</a></li>
+                <li><a href="https://github.com/falak siddiqui" target="_blank" rel="noopener">GitHub Repository</a></li>
             </ul>
         </div>
         <div class="footer-bottom">
